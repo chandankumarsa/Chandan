@@ -125,7 +125,7 @@ export const About = () => {
                   </Table>
                 </TableContainer>
               </ScaleFade>
-              <a href="https://drive.google.com/file/d/1h_myh9AB7tuTdlf_UWjd-5a400xkyNpH/view?usp=sharing" target={"_blank"}>
+              <a href="https://drive.google.com/file/d/111LAz3P-nScxepV4AAQEQ4APgb-JtPrV/view?usp=sharing" target={"_blank"}>
               <Button mt={"30px"} ml="15px" bg="#4dbdfa" color={"black"}>
                 Download Resume
                 </Button>
